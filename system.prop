@@ -1,0 +1,3 @@
+persist.radio.multisim.config=dsds
+persist.sys.fuse.passthrough.enable=true
+ro.sf.lcd_density=320

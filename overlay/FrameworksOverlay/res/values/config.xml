@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_hotswapCapable">true</bool>
+    <bool name="config_intrusiveNotificationLed">true</bool>
+    <bool name="config_unplugTurnsOnScreen">true</bool>
+    <bool name="config_cameraDoubleTapPowerGestureEnabled">false</bool>
+    <bool name="config_supportSystemNavigationKeys">false</bool>
+    <bool name="config_sms_decode_gsm_8bit_data">true</bool>
+    <integer name="config_brightness_ramp_rate_slow">100</integer>
+    <string name="config_displayLightSensorType" translatable="false">android.sensor.light</string>
+</resources>
